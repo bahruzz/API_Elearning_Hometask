@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\0707b021-bcc5-4959-b356-4efd79164811-instagram2.jpg",
+      "PackagePath": "staticwebassets\\img\\0707b021-bcc5-4959-b356-4efd79164811-instagram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\22117af4-4dce-4860-815e-5515b87f5dc3-team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\22117af4-4dce-4860-815e-5515b87f5dc3-team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\3716e976-a41a-4d66-a167-f73d3157aa8e-team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\3716e976-a41a-4d66-a167-f73d3157aa8e-team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\440e9dc7-7ee3-4578-a1ca-fcbbbe91a007-course-2.jpg",
+      "PackagePath": "staticwebassets\\img\\440e9dc7-7ee3-4578-a1ca-fcbbbe91a007-course-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\4e343ca6-0d1a-4e3c-8c9b-79559c99267e-team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\4e343ca6-0d1a-4e3c-8c9b-79559c99267e-team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\7869302f-010b-4a07-bc5b-9edacee8acc3-shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets\\img\\7869302f-010b-4a07-bc5b-9edacee8acc3-shop-category-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\9a0ba3db-7cf4-44e8-b90b-1f688c9f4539-h3-slider-background-2.jpg",
+      "PackagePath": "staticwebassets\\img\\9a0ba3db-7cf4-44e8-b90b-1f688c9f4539-h3-slider-background-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\aad45979-cb0c-4437-8ec1-82a4aba19f95-team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\aad45979-cb0c-4437-8ec1-82a4aba19f95-team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\b176ccb4-7b81-4f13-88ea-3e961187403c-shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\b176ccb4-7b81-4f13-88ea-3e961187403c-shop-category-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\cd64f920-a3dd-4ef0-8822-31e93fc21899-blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\cd64f920-a3dd-4ef0-8822-31e93fc21899-blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\d64e2d8e-5942-4a31-8a06-1dde64c95a37-shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\d64e2d8e-5942-4a31-8a06-1dde64c95a37-shop-category-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\API-Elearning\\Api-Elearning\\Api-Elearning\\wwwroot\\img\\e683b0c1-2e2c-409c-8c3a-12c42e2e21ef-blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\e683b0c1-2e2c-409c-8c3a-12c42e2e21ef-blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Api-Elearning.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Api-Elearning.props",
+      "PackagePath": "build\\Api-Elearning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Api-Elearning.props",
+      "PackagePath": "buildMultiTargeting\\Api-Elearning.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Api-Elearning.props",
+      "PackagePath": "buildTransitive\\Api-Elearning.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
